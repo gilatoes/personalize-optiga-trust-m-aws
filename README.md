@@ -1,4 +1,4 @@
-# Personalize your OPTIGA™ Trust X for AWS IoT Core
+# Personalize your OPTIGA™ Trust M for AWS IoT Core using Raspberry Pi
 
 [Go to Trust M Personalization Wiki here](https://github.com/gilatoes/personalize-optiga-trust-x/wiki)
 
