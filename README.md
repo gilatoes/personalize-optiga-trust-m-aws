@@ -1,6 +1,6 @@
 # Personalize your OPTIGA™ Trust M for AWS IoT Core using Raspberry Pi
 
-[Go to Trust M Personalization Wiki here](https://github.com/gilatoes/personalize-optiga-trust-x/wiki)
+[Go to Trust M Personalization Wiki here](https://github.com/gilatoes/personalize-optiga-trust-m-aws/wiki/Personalization-of-Trust-M-to-AWS-IoT-Core)
 
 ## Contributing
 Please read [CONTRIBUTING.md](https://github.com/Infineon/optiga-trust-x/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
